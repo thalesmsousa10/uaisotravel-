@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 120" role="img" aria-labelledby="title desc">
+  <title id="title">Símbolo Uai Sô Travel</title>
+  <desc id="desc">Galinho diante do sol, com avião e rota de viagem</desc>
+  <defs>
+    <linearGradient id="sun" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffc21c"/><stop offset="1" stop-color="#f59a00"/></linearGradient>
+    <linearGradient id="wing" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffb313"/><stop offset=".52" stop-color="#0789eb"/><stop offset="1" stop-color="#043369"/></linearGradient>
+  </defs>
+  <g fill="none" stroke="#f59a00" stroke-linecap="round" stroke-width="5"><path d="M84 4v9M55 12l5 8M113 12l-5 8M35 31l8 5M133 31l-8 5"/></g>
+  <circle cx="84" cy="54" r="38" fill="url(#sun)"/>
+  <path d="M18 82c27 22 82 22 128-13-25 40-92 52-128 13Z" fill="#07326a"/>
+  <path d="M52 77C37 69 27 56 18 42c16 3 28 13 38 27-3-18-1-31 7-43 9 14 12 31 8 48Z" fill="#07326a" stroke="#fff" stroke-width="3"/>
+  <path d="M49 70C36 61 31 53 27 47c13 5 22 12 29 22Z" fill="#0789eb"/>
+  <path d="M58 77C47 70 42 63 39 57c11 4 20 10 25 18Z" fill="#e51218"/>
+  <path d="M61 79c8-31 20-46 37-46 15 0 23 12 24 27 1 18-11 32-29 33-14 1-25-4-32-14Z" fill="#07326a"/>
+  <path d="M77 72c5-11 4-20 8-27 4-8 11-13 19-12 10 1 16 9 16 18 0 7-4 12-9 16 0 6 3 11 8 15-12 1-22-3-28-10-4 8-10 14-18 18 4-8 5-13 4-18Z" fill="#fff" stroke="#07326a" stroke-width="3"/>
+  <path d="M88 34c-7-3-11-8-12-14 7 0 13 3 17 9-1-8 2-14 7-18 4 6 6 13 3 20 6-5 12-6 18-4-2 6-7 10-13 12Z" fill="#e51218" stroke="#fff" stroke-linejoin="round" stroke-width="3"/>
+  <path d="M117 43l14 7-14 8c3-5 3-10 0-15Z" fill="#f5a400" stroke="#fff" stroke-linejoin="round" stroke-width="2.5"/>
+  <circle cx="111" cy="42" r="2.2" fill="#07326a"/>
+  <path d="M114 64c8 4 11 10 8 18-7-2-11-7-12-14Z" fill="#e51218"/>
+  <path d="M69 88c9-14 19-20 32-18 8 1 14 6 17 13-13-2-25 3-35 13Z" fill="url(#wing)"/>
+  <path d="M77 92c12-4 23-4 34-1-11 7-22 9-34 1Z" fill="#40a40b"/>
+  <g fill="#07326a" transform="translate(123 19) rotate(-13)"><path d="M0 8 26 0l3 3-10 8 8 7-3 2-11-5-6 5-2-1 3-8L0 10Z"/></g>
+  <path d="M14 89c34 21 88 22 135-13" fill="none" stroke="#07326a" stroke-linecap="round" stroke-width="4"/>
+</svg>
